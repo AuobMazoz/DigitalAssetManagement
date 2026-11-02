@@ -5,6 +5,8 @@ Java project demonstrating interfaces and inheritance for digital assets.
 ## Overview
 This project models a small hierarchy of digital asset types using Java object-oriented programming concepts such as interfaces, abstract classes, inheritance, encapsulation, and method overriding.
 
+The `process()` methods in this project print demonstration messages only; they do not modify actual media files.
+
 ## Included examples
 - `Processable` interface
 - `DigitalAsset` abstract base class
